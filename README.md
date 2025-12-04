@@ -23,5 +23,5 @@ pip install -r requirements.txt
 
 python 摸鱼屏保.py
 
-
-<img width="449" height="408" alt="人生日历截图20251204144629" src="https://github.com/user-attachments/assets/343c2778-72de-45f0-b6e3-4badd406c631" />
+## 📦 软件预览
+<img width="449" height="408" alt="摸鱼屏保预览" src="https://github.com/user-attachments/assets/22ad7b5d-99b2-4c87-bdd8-151fb3d34b1a" />
